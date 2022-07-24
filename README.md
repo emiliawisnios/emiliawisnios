@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- :mortar_board: Machine Learning student at [University of Warsaw, Poland](https://mimuw.edu.pl/en)
+- :office: Python Developer at [Silver Bullet Solutions](https://silverbulletsolutions.pl/)
+- :computer: Research Software Engineer at [MI2DataLab](https://www.mi2.ai/)
+- :closed_book: Research interests: Natural Language Processing (especially language models and dialogue systems) and its applications in Social Science
+- :seedling: Currently learning: Document Layout Analysis
+- :envelope: Reach out to me: [Linkedin](https://www.linkedin.com/in/emilia-wisnios/)
+
 <!--
 **emiliawisnios/emiliawisnios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
