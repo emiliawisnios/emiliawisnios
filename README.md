@@ -7,6 +7,8 @@
 - :seedling: Currently learning: Summarization
 - :envelope: Reach out to me: [Linkedin](https://www.linkedin.com/in/emilia-wisnios/)
 
+My profile picture was created by [DALL·E 2](https://openai.com/dall-e-2/)
+
 <!--
 **emiliawisnios/emiliawisnios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
