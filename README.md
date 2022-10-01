@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - :mortar_board: Machine Learning student at [University of Warsaw, Poland](https://mimuw.edu.pl/en)
-- :office: Python Developer at [Silver Bullet Solutions](https://silverbulletsolutions.pl/)
+- :office: Senior NLP Specialist at [NASK](https://www.nask.pl/)
+- :office: Teaching Assistant at [University of Warsaw](https://mimuw.edu.pl/)
 - :computer: Research Software Engineer at [MI2DataLab](https://www.mi2.ai/)
 - :closed_book: Research interests: Natural Language Processing (especially language models and dialogue systems) and its applications in Social Science
 - :seedling: Currently learning: Summarization
