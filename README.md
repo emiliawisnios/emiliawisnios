@@ -4,7 +4,7 @@
 - :office: Senior NLP Specialist at [NASK](https://www.nask.pl/)
 - :office: Teaching Assistant at [University of Warsaw](https://mimuw.edu.pl/)
 - :computer: Research Software Engineer at [MI2DataLab](https://www.mi2.ai/)
-- :closed_book: Research interests: Natural Language Processing (especially language models and dialogue systems) and its applications in Social Science
+- :closed_book: Research interests: Natural Language Processing (especially language models) and its applications in Social Science
 - :seedling: Currently learning: Summarization
 - :envelope: Reach out to me: [Linkedin](https://www.linkedin.com/in/emilia-wisnios/)
 
