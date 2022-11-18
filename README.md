@@ -10,6 +10,9 @@
 
 My profile picture was created by [DALL·E 2](https://openai.com/dall-e-2/)
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emiliawisnios&show_icons=true&theme=cobalt)
+
 <!--
 **emiliawisnios/emiliawisnios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
