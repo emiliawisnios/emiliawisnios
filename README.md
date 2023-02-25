@@ -8,6 +8,11 @@
 - :seedling: Currently learning: Summarization
 - :envelope: Reach out to me: [Linkedin](https://www.linkedin.com/in/emilia-wisnios/)
 
+My PyPI packages: [hades-nlp](https://github.com/MI2DataLab/HADES)
+
+My papers:
+- [Climate Policy Tracker: Pipeline for automated analysis of public climate policies](https://www.climatechange.ai/papers/neurips2022/59)
+
 My profile picture was created by [DALL·E 2](https://openai.com/dall-e-2/)
 
 
