@@ -12,6 +12,7 @@ My PyPI packages: [hades-nlp](https://github.com/MI2DataLab/HADES)
 
 My papers:
 - [Climate Policy Tracker: Pipeline for automated analysis of public climate policies](https://www.climatechange.ai/papers/neurips2022/59)
+- [HADES: Homologous Automated Document Exploration and Summarization](https://arxiv.org/abs/2302.13099)
 
 My profile picture was created by [DALL·E 2](https://openai.com/dall-e-2/)
 
